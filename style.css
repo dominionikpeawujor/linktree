@@ -59,6 +59,10 @@ footer {
     width: 20px;
     height: 20px;
 }
+.footer-logo {
+    width: 100px;
+    height: auto;
+}
 
 #myBtn {
     display: none;
